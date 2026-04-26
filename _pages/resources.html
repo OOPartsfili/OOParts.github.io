@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "资源分享 (Resources)"
+permalink: /resources/
+author_profile: true
+---
+
+{% include base_path %}
+
+这里将分享一些我在学习和研究过程中发现的优质人工智能资源，以及个人在相关领域的学习笔记。
+
+{% for post in site.resources reversed %}
+  {% include archive-single.html %}
+{% endfor %}

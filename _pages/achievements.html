@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "成果 (Achievements)"
+permalink: /achievements/
+author_profile: true
+---
+
+{% include base_path %}
+
+这里汇总了我的论文期刊、荣誉称号以及竞赛成果。
+
+{% for post in site.achievements reversed %}
+  {% include archive-single.html %}
+{% endfor %}

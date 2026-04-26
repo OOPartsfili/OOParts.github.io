@@ -1,0 +1,16 @@
+# Ignore the contents of the _site directory
+_site/
+
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+#Ignore 我的个人隐私资料
+my_metarial
+README.md
+
+# Ingore files created by npm
+node_modules
+package-lock.json
