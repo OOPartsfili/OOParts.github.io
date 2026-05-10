@@ -3,7 +3,7 @@ title: "Personalized lane departure warning based on non-stationary crossformer 
 collection: achievements
 type: "Paper"
 permalink: /achievements/AEJ
-date: 2024-01-01
+date: 2024-09-22
 ---
 发表SCI二区论文。
 
