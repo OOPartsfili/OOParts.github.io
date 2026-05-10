@@ -9,7 +9,7 @@ Gemfile.lock
 
 #Ignore 我的个人隐私资料
 my_metarial
-README.md
+.idea
 
 # Ingore files created by npm
 node_modules
