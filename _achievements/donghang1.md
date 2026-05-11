@@ -2,7 +2,7 @@
 title: "飞机降落冲偏出跑道风险评估与智能诊断"
 collection: achievements
 type: "Item"
-permalink: /achievements/trb2026
+permalink: /achievements/donghang1
 date: 2025-05-29
 ---
 东航纵向合作项目
